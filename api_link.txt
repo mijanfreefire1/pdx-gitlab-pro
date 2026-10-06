@@ -1,1 +1,1 @@
-https://pdx-gitlab-server-production.up.railway.app
+https://pdx-agoda-server-production-ffa0.up.railway.app
